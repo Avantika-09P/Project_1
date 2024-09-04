@@ -15,7 +15,7 @@ I want to upload my project based on QR CODE using pycharm.
 <br>Education: Students can integrate QR codes into projects for easy access to information, attendance tracking, or event management.
 <br>Logistics and Inventory Management: QR codes are essential in tracking products, shipments, and inventory, making them valuable in supply chain applications.
 <br>Requirements:
-<br><ul>Python 3.x
+<br><ol>Python 3.x
 <br>qrcode library
 <br>Pillow library (for image handling)
 <br>Feel free to contribute or suggest improvements
