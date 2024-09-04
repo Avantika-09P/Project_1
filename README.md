@@ -16,7 +16,7 @@ I want to upload my project based on QR CODE using pycharm.
 <br>Logistics and Inventory Management: QR codes are essential in tracking products, shipments, and inventory, making them valuable in supply chain applications.
 <br>Requirements:
 <br><li>Python 3.x
-<br>qrcode library
-<br>Pillow library (for image handling)
-<br>Feel free to contribute or suggest improvements
+<br><li>qrcode library
+<br><li>Pillow library (for image handling)
+<br><li>Feel free to contribute or suggest improvements
 
